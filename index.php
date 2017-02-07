@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>AndroidHive | Firebase Cloud Messaging</title>
+        <title>Firebase Cloud Messaging</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="//www.gstatic.com/mobilesdk/160503_mobilesdk/logo/favicon.ico">
