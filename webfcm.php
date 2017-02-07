@@ -120,6 +120,7 @@
     console.log("Message received. ", payload);
     // [START_EXCLUDE]
     // Update the UI to include the received message.
+  // window.alert(payload);
     appendMessage(payload);
     // [END_EXCLUDE]
   });
